@@ -6,7 +6,7 @@ The code is mainly from @wangheyu and slightly modified by me.
 
 ## How to use
 
-You can generate a bmp file with the following command:
+You can generate a bmp file with the following command under directory `/src`:
 
 ```shell
 ./run.sh filename ox oy dimension
