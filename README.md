@@ -16,4 +16,4 @@ by which you'll create a bitmap image called _filename_ with the origin point of
 
 ## Want to know more?
 
-My essay will be in the directory `\doc`, with both `.tex` files and the`.pdf` file.
+My essay is in the directory `/doc`, with both `.tex` files and the generated `.pdf` file.
