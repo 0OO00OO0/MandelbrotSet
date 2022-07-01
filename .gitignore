@@ -3,4 +3,6 @@
 *.log
 *.aux
 *.out
+*.bbl
+*.blg
 
