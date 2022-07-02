@@ -18,7 +18,7 @@ by which you'll create a bitmap image called _filename_ with the origin point of
 
 ### Compile $\LaTeX$ files
 
-Just run the following command under directory `\doc`
+Just run the following command under directory `/doc`
 
 ```shell
 make report
